@@ -1,7 +1,7 @@
-# Market-Analysis-of-Superstore-With-Time-Series
+Market Analysis of Superstore with Time Series
  Inputs of Market Analysis:
 Dataset has the data regarding Order Date, goods sales, category, sub-category, quantity, mode of transport, product details, sales profit, and others.
-           Outputs of Market Analysis:
+ Outputs of Market Analysis:
         1.Reindex Order Date using time series only for furniture sales data.
          2.Generates monthly wise report on furniture sales using Order Dates 
          3.Generates quarterly wise report on furniture sales using Order Dates 
@@ -12,7 +12,6 @@ Dataset has the data regarding Order Date, goods sales, category, sub-category, 
          8 Generates yearly wise report on furniture sales Using Order Dates
          9.Generates sales report according to category.
          10.Generates sales report according to sub-category
-
 Requirements:
     Hardware Requirements
 •	Ram 4gb and higher
@@ -24,4 +23,5 @@ Requirements:
 •	python interpreter ipython
 •	text editor Jupyter notebook
 •	back end tools python 3.6
+
 
